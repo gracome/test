@@ -72,3 +72,8 @@
             <!-- Main Nav End -->
         </div>
 </template>
+<style >
+#app{
+    text-align: center !important;
+}
+</style>
